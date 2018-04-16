@@ -14,7 +14,7 @@ public class Main {
 
     /**
      * Método main que da inicio a aplicación
-     * @param args
+     * @param args inicio de la aplicacion
      */
     public static void main(String[] args) {
         System.out.println("CÁLCULO DEL INTERÉS SIMPLE");
