@@ -8,7 +8,17 @@
 
 package proyecto_interes;
 import java.util.*;
+
+/**
+ *
+ * @author uadmin
+ */
 public class Main {
+
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("CÁLCULO DEL INTERÉS SIMPLE");
         Scanner teclado = new Scanner(System.in);
