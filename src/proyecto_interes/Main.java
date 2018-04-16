@@ -1,22 +1,19 @@
-/*****************************************************************************
- * Visualizar el interes simple que produce un capital (capital)
- * a un determinado tipo de interes (redito) anual expresado en tanto por ciento
- * y considerando el tiempo (tiempo) en años.
- * La formula es: interes= (capital*redito*tiempo)/100
- * autor: profesor
- ******************************************************************************/
 
 package proyecto_interes;
 import java.util.*;
 
 /**
- *
+ *Clase Main para facer probas en NetBeans coa clase interese
+ * Visualizar el interes simple que produce un capital (capital)
+ * a un determinado tipo de interes (redito) anual expresado en tanto por ciento
+ * y considerando el tiempo (tiempo) en años.
+ * La formula es: interes= (capital*redito*tiempo)/100)
  * @author uadmin
  */
 public class Main {
 
     /**
-     *
+     * Método main que da inicio a aplicación
      * @param args
      */
     public static void main(String[] args) {
